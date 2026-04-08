@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niravhingu" alt="niravhingu" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://nirav-hingu-portfolio.netlify.app/](https://nirav-hingu-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nirav-hingu-portfolio.netlify.app/]([https://nirav-hingu-portfolio.netlify.app/](https://niravhingu.github.io/My-portfolio/))
 
 - 📫 How to reach me **hingunirav4307@gmail.com**
 
