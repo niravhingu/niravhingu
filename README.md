@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hi 👋 I'm Nirav Hingu</h1><br>💻 aspiring Frontend and Full Stack Developer from India.   <br>🌱 I'm learning React.js, Node.js, Python and exploring AI concepts.  <br>💬 Ask me about HTML, CSS, JavaScript, Responsive Design and Git.  <br>🚀 My goal is to become a skilled Full Stack Developer with AI integration skills.
+<h1>Hi 👋 I'm Nirav Hingu</h1><br>💻 aspiring Frontend and Full Stack Developer from India.   <br>🌱 I'm learning React.js, Node.js, Advance Python and exploring AI concepts.  <br>💬 Ask me about HTML, CSS, JavaScript, Responsive Design and Git.  <br>🚀 My goal is to become a skilled Full Stack Developer with AI integration skills.
 
 
 ## 🌐 Socials:
