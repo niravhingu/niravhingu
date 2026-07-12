@@ -8,7 +8,7 @@
 
 💻 I'm **Hingu Nirav**, an aspiring **Frontend & Full Stack Developer** from India 🇮🇳.
 
-⚛️ I enjoy building modern, responsive and user-friendly web applications using **HTML, CSS, JavaScript, React.js and Tailwind CSS**.
+⚛️ I enjoy building modern, responsive and user-friendly web applications using **HTML, CSS, JavaScript, React.js , Tailwind CSS & Node.js**.
 
 🌱 Currently learning **Express.js, PostgreSQL, Authentication, DevOps and AI Integration**.
 
